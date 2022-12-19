@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "676725693615",
+    "project_id": "hmi-ocr-application",
+    "storage_bucket": "hmi-ocr-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676725693615:android:028e927a6564b56118085a",
+        "android_client_info": {
+          "package_name": "com.example.ocr_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676725693615-qnq2hoo49nk2le8079bmqodhalps1ntt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ocr_application",
+            "certificate_hash": "aa14ecad6f1165d4010fcf02161f383e71e25c00"
+          }
+        },
+        {
+          "client_id": "676725693615-u0hr134homp3hgni9f4c1rs458c65mgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS-X1OW_6uSzQW70iDkJzs2Du6H-Sj0l0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676725693615-u0hr134homp3hgni9f4c1rs458c65mgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
