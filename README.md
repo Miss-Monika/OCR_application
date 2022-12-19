@@ -64,14 +64,7 @@ flutter upgrade
 ## Upcoming features:
 - Phone number verification
 - Conversion to multiple file formats i.e. .csv, .xlsx, etc.
-## Collaborators:
-| Name | Year | Branch|
-| ------------- | ------------- | ------------- |
-| Harshita Kalani (B20CS019)  | Sophomore  | CSE |
-| Pranav Goswami (B20CS016) | Sophomore  | CSE |
-| Devansh Naresh Bansal (B20CS094) | Sophomore | CSE |
-| Diksha Jena (B20CS013) | Sophomore | CSE |
-| Jinal Suthar (B20CS023) | Sophomore | CSE |
+
 ## Screenshots:
 <p float="left">
 <img src = "https://github.com/Pranavchiku/OCR_Application/blob/main/HMI%20OCR%20Images/1.jpeg?raw=true" width="150" height="300">
