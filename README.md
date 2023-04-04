@@ -11,17 +11,13 @@
 - [Imgur Api: ](https://imgur.com/) Imgur API documentation
 
 ## How to Use:
+
 Step 1: \
-Download or clone this repository by using the link below:
-```
-https://github.com/HarshitaKalani/OCR_Application.git
-```
-Step 2: \
 Open the project in an IDE and execute the following command in console to get the required dependencies:
 ```
 flutter pub get
 ```
-Step 3: \
+Step 2: \
 Run the project by executing the below piece of code in console:
 ```
 flutter run
@@ -31,11 +27,11 @@ If the code shows no sound null safety error, run the below code:
 flutter run --no-sound-null-safety
 ```
 If the code still do not run \
-Step 4: 
+Step 3: 
 ```
 flutter clean
 ```
-Step 5: 
+Step 4: 
 ```
 flutter upgrade
 ```
