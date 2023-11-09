@@ -82,5 +82,4 @@ flutter upgrade
 </p>
 <p float="left">
 
-<img src = "https://github.com/Pranavchiku/OCR_Application/blob/main/HMI%20OCR%20Images/15.jpeg?raw=true" width="150" height="300">
 </p>
